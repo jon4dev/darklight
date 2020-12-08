@@ -1,5 +1,10 @@
-The master branch is the live-build.
-Beta-build is dev/beta.
-Old-menu is exactly what you think. It's the oldest menu before the recode.
+Darklight was a CS:GO Pay to cheat centered around movement. 
 
-If you try and compile this, you'll be missing the required dependencies.
+In it's inital phases it had done well in growth and development, however around the beggening of December, the /install directory was left open and the SQL database was deleted. This lead the developer, whatinthehells and seraphim to leave the project.
+
+I had hired a new developer, BugNerd, after had shown me some past work and after a promising start it was going well.
+After several days- unexpectedly he leaked the source and left.
+
+https://discord.gg/darklight
+
+https://darklight.xyz/
