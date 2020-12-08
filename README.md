@@ -6,4 +6,5 @@ I had hired a new developer, BugNerd, after had shown me some past work and afte
 After several days- unexpectedly he leaked the source and left.
 
 https://discord.gg/darklight
+
 https://darklight.xyz/
